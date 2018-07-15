@@ -1,0 +1,90 @@
+languages:
+  - language: "english"
+    links:
+    - title: "science"
+      href: /en/science/
+      subcategories:
+        - subtitle: "research"
+          subhref: "/en/science/research/"
+        - subtitle: "publications"
+          subhref: "/en/science/publications/"
+        - subtitle: "cv"
+          subhref: "/en/science/cv/"
+        - subtitle: "collaborators"
+          subhref: "/en/science/collaborators/"
+        - subtitle: "photos"
+          subhref: "/en/science/photos/"
+        - subtitle: "resources"
+          subhref: "/en/science/resources/"
+    - title: "artwork"
+      href: /en/artwork/
+      subcategories:
+        - subtitle: "sketches"
+          subhref: "/en/artwork/sketches/"
+        - subtitle: "collages"
+          subhref: "/en/artwork/collages/"
+        - subtitle: "perspective"
+          subhref: "/en/artwork/perspective/"
+
+        - subtitle: "design/interface"
+          subhref: "/en/artwork/interface/"
+        - subtitle: "design/diorama"
+          subhref: "/en/artwork/diorama/"
+        - subtitle: "design/space"
+          subhref: "/en/artwork/space/"
+
+        - subtitle: "live model"
+          subhref: "/en/artwork/live-model/"
+        - subtitle: "fauna"
+          subhref: "/en/artwork/fauna/"
+        - subtitle: "scientific/illustrations"
+          subhref: "/en/artwork/scientific-illustrations/"
+    - title: "about me"
+      href: /en/aboutme/
+    - title: "contact"
+      href: /en/contact/
+
+  - language: "français"
+    links:
+    - title: "science"
+      href: /fr/science/
+      subcategories:
+        - subtitle: "recherche"
+          subhref: "/fr/science/recherche/"
+        - subtitle: "publications"
+          subhref: "/fr/science/publications/"
+        - subtitle: "cv"
+          subhref: "/fr/science/cv/"
+        - subtitle: "collaborateurs"
+          subhref: "/fr/science/collaborateurs/"
+        - subtitle: "photos"
+          subhref: "/fr/science/photos/"
+        - subtitle: "ressources"
+          subhref: "/fr/science/ressources/"
+    - title: "art"
+      href: /fr/art/
+      subcategories:
+        - subtitle: "croquis"
+          subhref: "/fr/art/croquis/"
+        - subtitle: "collages"
+          subhref: "/fr/art/collages/"
+        - subtitle: "perspective"
+          subhref: "/fr/art/perspective/"
+
+        - subtitle: "design/interface"
+          subhref: "/fr/art/interface/"
+        - subtitle: "design/diorama"
+          subhref: "/fr/art/diorama/"
+        - subtitle: "design/espace"
+          subhref: "/fr/art/espace/"
+
+        - subtitle: "modèle vivant"
+          subhref: "/fr/art/modèle-vivant/"
+        - subtitle: "faune"
+          subhref: "/fr/art/faune/"
+        - subtitle: "illustrations/scientifiques"
+          subhref: "/fr/art/illustrations-scientifiques/"
+    - title: "à propos"
+      href: /fr/àpropos/
+    - title: "contact"
+      href: /fr/contact/

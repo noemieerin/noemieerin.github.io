@@ -1,0 +1,415 @@
+
+/**
+ * Site header   **********************************************************
+ */
+.site-header {
+  border-bottom: 1px solid $grey-color-light;
+  background-color: #fff;
+  opacity: 0.75;
+  position: relative; // Positioning context for the mobile navigation icon
+  left:0px;
+  top:0px;
+  height:56px;
+  width:100%;
+  z-index: 50;
+}
+
+.site-title {
+  font-size: 20px;
+  line-height: $nav-height;
+  letter-spacing: 0.08em;
+  margin-bottom: 0;
+  &:hover {
+    text-decoration: none;
+    color: $theme-color;
+  }
+}
+
+.site-nav {
+  float: right;
+  line-height: $nav-height;
+  overflow: hidden; // remove the bullet points
+  position: relative; //
+  .page-link{
+    line-height: $base-line-height;
+    // Gaps between nav items, but not on the first one
+    &:not(:first-child) {
+      justify-content:space-between;
+      margin-left: 20px;
+    }
+  }
+
+
+@include media-query($on-palm) {
+  position: fixed;
+  top: 0px;
+  right: 10px;
+  text-align: right;
+  &:hover .trigger {
+    display: block;
+    padding-bottom: 5px;
+  }
+  .page-link {
+    display: line;
+        }
+    }
+}
+
+.header-bar{
+    left: 0px;
+    top: 0px;
+    position: relative;
+    font-size: 20px;
+    display: block;
+    opacity: 0.75;
+    width: 100%;
+    text-align: center;
+    padding-top: 25px;
+    line-height: 3em;
+    z-index: 25;
+    h1{
+      color: $theme-color;
+      font-size:75px;
+    }
+    h2{
+      font-size:25px;
+    }
+}
+
+
+
+//*dropdown navigation menu*//
+.dropdown-menu{
+  display: none;
+  position: absolute;
+  float: left;
+}
+
+//*navigation (without dropdown) menu styling*//
+li {
+    display: inline-block; //Create a horizontal list with spacing
+    position: relative;
+    margin: 20;
+    padding: 0;
+    min-width: 100px; // space between menu items
+}
+
+//* navigation (with dropdown) menu styling*//
+.dropdown-content{
+  display: block;
+  letter-spacing: 0.1em;
+  padding: 0;
+  min-width: 100px; // space between menu items
+}
+
+//*Activate dropdown menu by hovering*//
+.dropdown:hover .dropdown-menu{
+  display: flex; // flexible display
+  flex-direction: column; // vertical flexible display
+  position: fixed; // sticky dropdown list: make it stay in play when scrolling down
+  letter-spacing: 0.1em;
+  margin: 0; // no margin difference between navigation menu item and dropdwon list items
+  padding: 0;
+  line-height: 30px;
+  max-width: 100px;
+  background-color: #fff;
+  opacity: 0.95;
+  font-size: 14px;
+}
+
+.post.lang{
+  display: none;
+  position: relative;
+  margin: 0; // no margin difference between navigation menu item and dropdwon list items
+  padding: 0;
+  letter-spacing: 0.1em;
+}
+
+/*to bold language*/
+.english:lang(english), .français:lang(français){
+    font-weight: bold;
+}
+
+/**
+ * Site footer  **********************************************************
+ */
+.site-footer {
+border-top: 1px solid $grey-color-dark;
+font-size: 10px;
+background-color: $grey-color-dark;
+padding: 2px;
+color: #aaa;
+position:fixed;
+left:0px;
+bottom:0px;
+height:25px;
+width:100%;
+}
+/**
+ * Pagination   **********************************************************
+ */
+.pagination{
+max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
+text-align: center;
+width: 100%;
+position: fixed;
+bottom: 50px;
+}
+.paginationicon {
+font-size: 50px;
+a {
+color: $theme-color;
+    }
+}
+/**
+ * Page content   **********************************************************
+ */
+.page-content {
+padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+}
+.page-heading {
+font-size: 20px;
+}
+.post-list {
+margin: 0px 0;
+list-style: none;
+    > li {
+margin-bottom: $vertical-spacing-unit;
+    }
+}
+.contacticon {
+font-size: 60px;
+display:block;
+margin: 10px;
+}
+.center{
+text-align: center;
+}
+/**
+ * Posts  **********************************************************
+ */
+.post-header {
+margin-bottom: $vertical-spacing-unit;
+}
+.post-title {
+font-size: 42px;
+letter-spacing: -1px;
+line-height: 1;
+@include media-query($on-laptop) {
+font-size: 36px;
+    }
+}
+.post-content {
+h2 {
+font-size: 42px;
+@include media-query($on-laptop) {
+font-size: 28px;
+        }
+    }
+h3 {
+font-size: 30px;
+@include media-query($on-laptop) {
+font-size: 22px;
+        }
+    }
+h4 {
+font-size: 20px;
+@include media-query($on-laptop) {
+font-size: 18px;
+        }
+    }
+}
+.post-meta {
+font-size: $small-font-size;
+color: $grey-color;
+margin-bottom: 0px;
+}
+.post-link {
+display: block;
+font-size: 42px;
+}
+
+/** Poem formatting ********************************************/
+.poem-title {
+font-size: 24px;
+letter-spacing: -1px;
+line-height: 1;
+@include media-query($on-laptop) {
+font-size: 16px;
+    }
+}
+
+
+/**
+ * Portfolio grid **********************************************************
+*/
+// Nicolas Gallagher's micro clearfix hack
+// http://nicolasgallagher.com/micro-clearfix-hack/
+.clearfix:before,
+.clearfix:after {
+content: " ";
+display: table;
+}
+.clearfix:after {
+clear: both;
+}
+.project {
+width: 33.33%;
+height: 250px;
+float: left;
+vertical-align: middle;
+box-sizing: border-box;
+padding: 10px;
+}
+.thumbnail{
+width: 100%;
+height: 230px;
+overflow: hidden;
+}
+.thumbnail img{
+width: 500px;
+height: auto;
+position: relative;
+left: -25%;
+top: -5%;
+}
+.thumbnail a{
+float: left;
+position: relative;
+width: 100%;
+height: 230px;
+}
+.thumbnail a span {
+display: none;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+background: rgba(0,0,0,0.4);
+color: $grey-color-light;
+padding: 40px;
+text-align: center;
+}
+.thumbnail a:hover span {
+display: block;
+}
+
+
+
+
+
+// circular thumbnails
+.circular{
+width: 100%;
+height: 230px;
+overflow: hidden;
+border-radius:100%; // circular contours
+}
+.circular img{
+width: 400px;
+height: auto;
+position: relative;
+left: 50%;
+top: 50%;
+transform: translate(-50%,-50%)
+}
+.circular a{
+float: left;
+position: relative;
+width: 100%;
+height: 230px;
+}
+.circular a span {
+display: none;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+background: rgba(0,0,0,0.4);
+color: $grey-color-light;
+padding: 40px;
+text-align: center;
+}
+.circular a:hover span {
+display: block;
+}
+
+/**
+ * Portfolio pages **********************************************************
+*/
+.blankbox{
+background: $theme-color;
+}
+.img_row{
+height: $img_height;
+width: 100%;
+overflow: hidden;
+box-sizing:border-box;
+padding: $img_spacing;
+}
+.col{
+width: 100%;
+height: 100%;
+float: left;
+object-fit: cover;
+box-sizing:border-box;
+padding: $img_spacing;
+}
+.right{
+float: right;
+}
+.one {
+width:33.33%;
+}
+.two {
+width: 66.66%;
+}
+.three{
+width: 100%;
+}
+.caption{
+height: 100%;
+color: $caption_color;
+text-align: center;
+vertical-align: middle;
+font-size: $caption_font_size;
+}
+
+
+
+/**
+ * Image mask **********************************************************
+*/
+//radial-gradient(circle at 50% // position horizontal
+//                          50%, // position vertical
+//                          black 10%, // circle size
+//                          rgba(0, 0, 0, 0.6) // opacity, rgba(red, green, blue, alpha)
+//                          20%) // blurryness of the border
+
+
+.mask1 {
+  -webkit-mask-image: radial-gradient(circle at 59% 47%, black 19%, rgba(0, 0, 0, 0.4) 10%);
+  mask-image: radial-gradient(circle at 59% 47%, black 19%, rgba(0, 0, 0, 0.4) 10%);
+}
+
+.mask2 {
+  -webkit-mask-image: radial-gradient(circle at 73% 50%, black 20%, rgba(0, 0, 0, 0.6) 10%);
+  mask-image: radial-gradient(circle at 73% 50%, black 20%, rgba(0, 0, 0, 0.6) 10%);
+}
+
+.mask3 {
+  -webkit-mask-image: radial-gradient(circle at 59% 31%, black 10%, rgba(0, 0, 0, 0.4) 10%);
+  mask-image: radial-gradient(circle at 59% 31%, black 10%, rgba(0, 0, 0, 0.4) 10%);
+}
+
+.mask4 {
+  -webkit-mask-image: radial-gradient(circle at 47% 47%, black 13%, rgba(0, 0, 0, 0.4) 10%);
+  mask-image: radial-gradient(circle at 47% 47%, black 13%, rgba(0, 0, 0, 0.4) 10%);
+}
+
+.mask5 {
+  -webkit-mask-image: radial-gradient(circle at 58% 31%, black 10%, rgba(0, 0, 0, 0.4) 10%);
+  mask-image: radial-gradient(circle at 58% 31%, black 10%, rgba(0, 0, 0, 0.4) 10%);
+}

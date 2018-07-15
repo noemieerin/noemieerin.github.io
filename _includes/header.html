@@ -1,0 +1,65 @@
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+
+<header class="site-header">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <div class="wrapper">
+
+    <!-- Site title (redirect to home/accueil) -->
+    <a class="site-title" href="/en/science/">
+      {% assign name = site.name | split: ' ' %}
+        <strong>{{ name | first }}</strong> {{ name | last }}
+    </a>
+
+    <!-- Navigation bar -->
+    <nav class="site-nav" role="navigation">
+      <div class="container">
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav navbar-right">
+
+          <!-- Pages in navigation bar -->
+        {% for item in site.data.navigation.languages %}
+          {% if item.language == page.lang %}
+            {% for link in item.links %}
+
+          <!-- check to see if the data file has a submenu, and if so display it -->
+          {% if link.subcategories != null %}
+          <li class="dropdown">
+            <a href="{{ site.url }}{{ link.href }}" class="dropdown-content">{{ link.title }}<i class="fa fa-angle-down"></i></a>
+
+            <!-- display the sub-menu item in a list -->
+            <ul class="dropdown-menu">
+              {% for subcategory in link.subcategories %}
+              <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+              {% endfor %}
+            </ul>
+            {% else %}
+
+            <!-- display the top level navigation for items that don’t have a submenu -->
+            <li>
+              <a href="{{ site.url }}{{ link.href }}">{{ link.title }}</a>
+              {% endif %}
+            </li>
+            {% endfor %}
+            {% endif %}
+            {% endfor %}
+
+            {% assign pages=site.pages | where:"link", page.link | sort: 'lang' %}
+            {% for page in pages %}
+            <a href="{{ page.url | prepand: site.baseurl}}" class="{{ page.lang }}"><small><i>{{ page.lang }}</i></small></a> {% endfor %}
+
+            {% assign posts=site.posts | where:"link", page.link | sort: 'lang' %}
+            {% for post in posts %}
+            <a href="{{ post.url | prepand: site.baseurl}}" class="{{ post.lang }}"><small><i>{{ post.lang }}</i></small></a> {% endfor %}
+
+
+          </ul>
+        </div><!-- /.navbar-collapse -->
+
+      </div><!-- /.container -->
+      </nav>
+
+    </div>
+  </header>

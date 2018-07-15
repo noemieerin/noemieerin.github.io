@@ -1,0 +1,27 @@
+# Site settings
+name: Noémie Erin
+title: *folio
+email: erin@evolbio.mpg.de
+lang: english # default language
+languages: ["english", "français"] # array of possible languages
+baseurl: # the subpath of your site, e.g. /blog/
+url: http://noemieerin.github.io # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+highlighter: rouge
+
+# Adding _pages folder (important for multilingual function)
+include: ['_webpagesAnswers', '_webpagesArtworks', '_webpagesMains', '_webpagesPhotos', '_webpagesResources', '_webpagesScience', 'index']
+
+# Pages with a portfolio layout
+collections:
+  webpagesArtworks:
+    output: true
+  webpagesPhotos:
+    output: true
+  webpagesResources:
+    output: true
+  webpagesScience:
+    output: true
