@@ -21,8 +21,8 @@ languages:
       subcategories:
         - subtitle: "sketches"
           subhref: "/en/artwork/sketches/"
-        - subtitle: "collages"
-          subhref: "/en/artwork/collages/"
+        - subtitle: "fauna"
+          subhref: "/en/artwork/fauna/"
         - subtitle: "perspective"
           subhref: "/en/artwork/perspective/"
 
@@ -35,8 +35,8 @@ languages:
 
         - subtitle: "live model"
           subhref: "/en/artwork/live-model/"
-        - subtitle: "fauna"
-          subhref: "/en/artwork/fauna/"
+        - subtitle: "collages"
+          subhref: "/en/artwork/collages/"
         - subtitle: "scientific/illustrations"
           subhref: "/en/artwork/scientific-illustrations/"
     - title: "about me"
@@ -66,8 +66,8 @@ languages:
       subcategories:
         - subtitle: "croquis"
           subhref: "/fr/art/croquis/"
-        - subtitle: "collages"
-          subhref: "/fr/art/collages/"
+        - subtitle: "faune"
+          subhref: "/fr/art/faune/"
         - subtitle: "perspective"
           subhref: "/fr/art/perspective/"
 
@@ -80,8 +80,8 @@ languages:
 
         - subtitle: "modèle vivant"
           subhref: "/fr/art/modèle-vivant/"
-        - subtitle: "faune"
-          subhref: "/fr/art/faune/"
+        - subtitle: "collages"
+          subhref: "/fr/art/collages/"
         - subtitle: "illustrations/scientifiques"
           subhref: "/fr/art/illustrations-scientifiques/"
     - title: "à propos"

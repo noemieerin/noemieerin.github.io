@@ -12,10 +12,14 @@ img: /img/diorama/diorama_03_43.jpg
 <br>
 
 [comment]: #
-<center><img src="/img/diorama/diorama_01_810.jpg" style = "width: 60%;" alt="" title="diorama"/></center>
+<center>
+<img src="/img/diorama/diorama_01_810.jpg" style = "width: 60%;" alt="" title="diorama"/>
+</center>
 
+<center>
 <img src="/img/diorama/diorama_02_169.jpg" style = "width: 48%;" alt="dé" title="détails (fleurs d’immortelle)"/>
 <img src="/img/diorama/diorama_03_169.jpg" style = "width: 48%;" alt="" title="détails (femme œuf-au-plat)"/>
+</center>
 
 <br/>
 ### NOTE D'INTENTION ####
@@ -33,3 +37,10 @@ Lumière tamisée; spot sur la femme œuf-au-plat et les fleurs d’immortelle, 
 
 MEDIUM :<br/>
 carton plume, bristol, papier, photocopie, crayon de couleur, immortelle des dunes (*Helichrysum stoechas*), colle à bois.
+
+<center>
+<img src="/img/collages/collages_superhero1_57b.jpg" style = "width: 38%;" alt="" title="la vengeance de la femme œuf-au-plat"/>
+<div class="col three caption">
+La Vengeance de la Femme Œuf-Au-Plat
+</div>
+</center>

@@ -12,10 +12,14 @@ img: /img/diorama/diorama_03_43.jpg
 <br>
 
 [comment]: #
-<center><img src="/img/diorama/diorama_01_810.jpg" style = "width: 60%;" alt="" title="diorama"/></center>
+<center>
+<img src="/img/diorama/diorama_01_810.jpg" style = "width: 60%;" alt="" title="diorama"/>
+</center>
 
+<center>
 <img src="/img/diorama/diorama_02_169.jpg" style = "width: 48%;" alt="" title="details (eternal flowers)"/>
 <img src="/img/diorama/diorama_03_169.jpg" style = "width: 48%;" alt="" title="details (sunny-side-up woman)"/>
+</center>
 
 <br/>
 ### NOTE OF INTENT ####
@@ -33,3 +37,10 @@ Soft night light. One ray of moonlight enlightens the sunny-side-up woman and th
 
 MEDIUM:<br/>
 Foamcore, bristol paper, paper, photocopy, coloured pencil, eternal flowers (*Helichrysum stoechas*), PVA glue.
+
+<center>
+<img src="/img/collages/collages_superhero1_57b.jpg" style = "width: 38%;" alt="" title="the revenge of the sunny-side-up woman"/>
+<div class="col three caption">
+The Revenge of the Sunny-Side-Up Woman
+</div>
+</center>
