@@ -8,7 +8,7 @@ img: /img/game/game_square.jpg
 permalink: /fr/science/photos/jeux/
 ---
 
-Pourrez-vous trouver où se cachent les parasites dans ces images ?
+Pourras-tu trouver où se cachent les parasites dans ces images ?
 <br>
 Cliquez [ici](/fr/science/photos/jeux-réponses/){:target="_blank"} pour avoir les réponses !
 
