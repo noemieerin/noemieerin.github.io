@@ -3,7 +3,7 @@ layout: page
 title: Illustrations Scientifiques
 description: communiquer la science
 lang: français
-link: scientific illustrations
+link: resource scientific illustrations
 permalink: /fr/art/illustrations-scientifiques/
 img: /img/sci-illustrations/life-cycle_diplo_snip.jpg
 ---
