@@ -37,10 +37,10 @@ Intuition, eternal sense of wonder, and remembering random facts.
 To have lived and worked abroad.
 
 **The mistake that taught me the most**<br/>
-Surviving life in the village of Plön, Schleswig-Holstein, Germany. It reminded me that countryside is great… but not full time.
+To have lived in the village of Plön, Schleswig-Holstein, Germany. It reminded me that countryside is great… but not full time.
 
 **Guilty ambition**<br/>
-Winning an Ig-Nobel Prize.
+Winning an [Ig-Nobel Prize](https://www.improbable.com/ig/winners/).
 
 **Biggest fear**<br/>
 Failure.

@@ -37,10 +37,10 @@ Intuition, éternel émerveillement, et me souvenir de toute sorte de faits.
 D’avoir vécu et travaillé à l’étranger.
 
 **L’erreur qui m’a le plus appris**<br/>
-D’avoir survécu dans le village de Plön, Schleswig-Holstein, Allemagne. Ça m’a rappelé que la campagne est superbe… mais pas à plein temps.
+D’avoir vécu dans le village de Plön, Schleswig-Holstein, Allemagne. Ça m’a rappelé que la campagne est superbe… mais pas à plein temps.
 
 **Ambition coupable**<br/>
-Gagner un Prix Ig-Nobel.
+Gagner un [Prix Ig-Nobel](https://www.improbable.com/ig/winners/).
 
 **Plus grande peur**<br/>
 L’échec.
