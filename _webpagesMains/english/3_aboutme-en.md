@@ -20,7 +20,7 @@ Hi, I’m **Noémie Erin**. I’m an evolutionary biologist and I am currently l
 <br/>
 I became a biologist out of fascination for the inner workings of the natural world, probably after watching too many nature documentaries as a child, and because I like untangling knots and solving puzzles.
 
-I was born in Saint-Michel (Charentes, France) and I grew up in the Caribbean island of Guadeloupe (France).
+I was born in Saint-Michel (Charentes, France) and I grew up on the Caribbean island of Guadeloupe (France).
 
 I studied biology and evolutionary ecology in Paris (B. Sc. and M. Sc. at Université Pierre et Marie Curie, France) and did my doctoral studies at the Max Planck Insitute for Evolutionary Biology (Plön, Germany).
 
@@ -31,22 +31,22 @@ Being a secret client in charge of visiting all museums and all restaurants in t
 I am an autodidact artist, I have a great sense of spatial orientation, and I can bake a mean apple pie.
 
 **Super powers**<br/>
-Dyslexia, eternal sense of wonder, and remembering random facts.
+Intuition, eternal sense of wonder, and remembering random facts.
 
 **Proudest accomplishment**<br/>
-To finish my PhD after a burn-out and one year of recovery.
+To have lived and worked abroad.
 
 **The mistake that taught me the most**<br/>
-Waiting too long before asking for help. Because I go further with a little help from my friends.
+Surviving life in the village of Plön, Schleswig-Holstein, Germany. It reminded me that countryside is great… but not full time.
 
-**Guilty pleasure**<br/>
-Cleaning other people’s places.
+**Guilty ambition**<br/>
+Winning an Ig-Nobel Prize.
 
 **Biggest fear**<br/>
 Failure.
 
 **Things I am serious about**<br/>
-Good food, getting enough sleep, social justice, environmental protection.
+Food, sleep, social justice, environmental protection.
 
 **Addictions**<br/>
 Podcasts, cats, Two Dots.

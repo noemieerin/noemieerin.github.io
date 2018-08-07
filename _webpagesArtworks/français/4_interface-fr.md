@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design d'Espace
+title: Design Interface
 description: création d'une interface
 lang: français
 link: interface

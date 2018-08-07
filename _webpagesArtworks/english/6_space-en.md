@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spatial Design
+title: Design Space
 description: from painting to space
 lang: english
 link: space

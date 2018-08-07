@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spatial Design
+title: Design Diorama
 description: diorama
 lang: english
 link: diorama

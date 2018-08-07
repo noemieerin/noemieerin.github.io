@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spatial Design
+title: Design Interface
 description: creating an interface
 lang: english
 link: interface

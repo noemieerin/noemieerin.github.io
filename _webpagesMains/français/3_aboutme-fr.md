@@ -31,22 +31,22 @@ J’ai étudié la biologie et l’écologie évolutive à Paris (Licence et Mas
 Je suis une artiste autodidacte, j’ai un très bon sens de l’orientation, et je cuisine une excellente tarte aux pommes.
 
 **Super pouvoirs**<br/>
-Dyslexie, éternel émerveillement, et me souvenir de toute sorte de faits.
+Intuition, éternel émerveillement, et me souvenir de toute sorte de faits.
 
 **Ce dont je suis la plus fière**<br/>
-D’avoir terminé ma thèse après un burn-out et une année d’interruption.
+D’avoir vécu et travaillé à l’étranger.
 
 **L’erreur qui m’a le plus appris**<br/>
-Attendre trop longtemps pour demander de l’aide. Parce que je vais plus loin ”with a little help from my friends”.
+D’avoir survécu dans le village de Plön, Schleswig-Holstein, Allemagne. Ça m’a rappelé que la campagne est superbe… mais pas à plein temps.
 
-**Plaisir coupable**<br/>
-Faire le ménage chez les autres.
+**Ambition coupable**<br/>
+Gagner un Prix Ig-Nobel.
 
 **Plus grande peur**<br/>
 L’échec.
 
 **Ce que je prends au sérieux**<br/>
-La bonne nourriture, dormir suffisamment, la justice sociale, la protection de l’environnement.
+La nourriture, le sommeil, la justice sociale, la protection de l’environnement.
 
 **Addictions**<br/>
 Les podcasts, les chats, Two Dots.

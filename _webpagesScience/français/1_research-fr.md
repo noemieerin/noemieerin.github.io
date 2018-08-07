@@ -19,7 +19,7 @@ permalink: /fr/science/recherche/
 #### **THÉMATIQUES DE RECHERCHE:** ####
 Je suis une **biologiste de l’évolution** qui étudie les parasites dans un contexte d’écologie évolutive. Je m’intéresse aux parasites comme force de sélection à la fois pour les hôtes et les parasites eux-mêmes. Mon travail recoupe les **champs de recherche** suivants :
 
-Adaptation Écologique, Spéciation Écologique, Adaptation Locale, Sélection Parasitaire, Coévolution Hôte-Parasite, Interaction de Parasites Intra-Hôte
+Coévolution Hôte-Parasite, Interaction de Parasites Intra-Hôte, Sélection Parasitaire, Adaptation Écologique, Spéciation Écologique, Adaptation Locale
 
 
 <br/>
@@ -27,7 +27,7 @@ Adaptation Écologique, Spéciation Écologique, Adaptation Locale, Sélection P
 <br/>
 <br/>
 #### **OUTILS DE RECHERCHE:** ####
-Mes recherches sont basées sur des études de terrain, des infections expérimentales et des expériences de sélections. J’ai surtout utilisé comme modèle d’étude l’[épinoche à trois épines](/fr/science/ressources/épinoches/){:target="_blank"} (*Gasterosteus aculeatus*) et son ver parasite spécifique le [*Schistocephalus solidus*](/fr/science/ressources/schisto/){:target="_blank"}.<br/><br/>
+Mes recherches sont basées sur des études de terrain, des infections expérimentales et des expériences de sélections. J’ai surtout utilisé comme modèle d’étude l’[épinoche à trois épines](/fr/science/ressources/épinoches/) (*Gasterosteus aculeatus*) et son ver parasite spécifique le [*Schistocephalus solidus*](/fr/science/ressources/schisto/).<br/><br/>
 *Techniques : identification des parasites, génétique moléculaire (PCR, génotypage, clonage, séquençage), expression de gène (qPCR), génétiques des populations.*
 
 

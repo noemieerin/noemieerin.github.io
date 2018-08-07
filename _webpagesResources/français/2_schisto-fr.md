@@ -13,7 +13,7 @@ exclude: true
 <br/><br/>
 <h4>CYCLE DE VIE DANS LA NATURE</h4>
 <br>
-Le ver plat *Schistocephalus solidus* (Müller, 1776) est un cestode pseudophyllidea transmis trophicalement via un cycle de vie complexe comportant trois hôtes. *Schistocephalus solidus* peu infecter différentes espèces de copépodes cyclopoïdes (comme premier hôte intermédiaire) et des oiseaux (comme hôte définitif), mais il est extrêmement spécifique à son deuxième hôte intermédiaire, l’[épinoche à trois épines](/fr/science/ressources/épinoches/){:target="_blank"} (*Gasterosteus aculeatus*). On le trouve typiquement dans les populations d’épinoches lacustres.
+Le ver plat *Schistocephalus solidus* (Müller, 1776) est un cestode pseudophyllidea transmis trophicalement via un cycle de vie complexe comportant trois hôtes. *Schistocephalus solidus* peu infecter différentes espèces de copépodes cyclopoïdes (comme premier hôte intermédiaire) et des oiseaux (comme hôte définitif), mais il est extrêmement spécifique à son deuxième hôte intermédiaire, l’[épinoche à trois épines](/fr/science/ressources/épinoches/) (*Gasterosteus aculeatus*). On le trouve typiquement dans les populations d’épinoches lacustres.
 
 [comment]: # landscape
 <center>

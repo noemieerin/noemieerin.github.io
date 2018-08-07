@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design d'Espace
+title: Design Diorama
 description: diorama
 lang: français
 link: diorama

@@ -13,7 +13,7 @@ exclude: true
 <br/><br/>
 <h4>LIFE CYCLE IN THE WILD</h4>
 <br>
-The tapeworm *Schistocephalus solidus* (Müller, 1776) is a trophically transmitted pseudophyllidea cestode with a three-host complex life cycle. *Schistocephalus solidus* can infect different species of cyclopoid copepod (as first intermediate host) and fish-eating bird (as final host), but it is highly specific to its second intermediate host, the [three-spined stickleback](/en/science/resources/sticklebacks/){:target="_blank"} (*Gasterosteus aculeatus*). It is typically found in populations of lake sticklebacks.
+The tapeworm *Schistocephalus solidus* (Müller, 1776) is a trophically transmitted pseudophyllidea cestode with a three-host complex life cycle. *Schistocephalus solidus* can infect different species of cyclopoid copepod (as first intermediate host) and fish-eating bird (as final host), but it is highly specific to its second intermediate host, the [three-spined stickleback](/en/science/resources/sticklebacks/) (*Gasterosteus aculeatus*). It is typically found in populations of lake sticklebacks.
 
 [comment]: # landscape
 <center>

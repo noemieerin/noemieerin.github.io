@@ -26,7 +26,7 @@ permalink: /fr/contact/
 **ResearchGate:** [Noémie I. Erin](https://www.researchgate.net/profile/Noemie_Erin)
 
 <i class="fas fa-mouse-pointer"></i>
-**web:** [www.noemieerin.github.io](https://www.noemieerin.github.io)
+**web:** [noemieerin.github.io](https://noemieerin.github.io)
 
 
 <br/>

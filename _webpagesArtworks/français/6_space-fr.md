@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design d'Espace
+title: Design Espace
 description: de la peinture à l'espace
 lang: français
 link: space

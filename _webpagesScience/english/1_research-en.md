@@ -21,7 +21,7 @@ permalink: /en/science/research/
 #### **RESEARCH INTERESTS:** ####
 I am an **evolutionary biologist** studying parasites in the context of evolutionary ecology. I am interested in parasites as a selective force of adaptation for both hosts and parasites themselves. My work cover the following **research themes**:
 
-Ecological Adaptation, Ecological Speciation, Local adaptation, Parasite-Mediated Selection, Host-Parasite Coevolution, Within-Host Parasite Interaction
+Host-Parasite Coevolution, Within-Host Parasite Interaction, Parasite-Mediated Selection, Ecological Adaptation, Ecological Speciation, Local adaptation
 
 
 <br/>
@@ -29,7 +29,7 @@ Ecological Adaptation, Ecological Speciation, Local adaptation, Parasite-Mediate
 <br/>
 <br/>
 #### **RESEARCH TOOLS:** ####
-My research is based on field survey, experimental infections and selection experiments. I have mainly used the [three-spined stickleback](/en/science/resources/sticklebacks/){:target="_blank"} (*Gasterosteus aculeatus*) and its specific tapeworm [*Schistocephalus solidus*](/en/science/resources/schisto/){:target="_blank"} as a host-parasite model system.<br/><br/>
+My research is based on field survey, experimental infections and selection experiments. I have mainly used the [three-spined stickleback](/en/science/resources/sticklebacks/) (*Gasterosteus aculeatus*) and its specific tapeworm [*Schistocephalus solidus*](/en/science/resources/schisto/) as a host-parasite model system.<br/><br/>
 *Skills: parasite screening, molecular genetics (PCR, genotyping, cloning, sequencing), gene expression (qPCR), population genetics.*
 
 

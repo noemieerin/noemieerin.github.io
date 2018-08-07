@@ -160,11 +160,6 @@ Eye flukes infected snails collection (Größe Plöner See, Schleswig-Holstein, 
 <img src="/img/field-work/plön_08_810.jpg" style = "width: 32%;" alt="" title=" two lymnaea stagnalis snails"/>
 <img src="/img/field-work/plön_09_810.jpg" style = "width: 32%;" alt="" title="collected snail buckets"/>
 <img src="/img/field-work/plön_10_810.jpg" style = "width: 32%;" alt="" title="collected snails"/>
-
-
-</center>
-
-<center>
 </center>
 
 
